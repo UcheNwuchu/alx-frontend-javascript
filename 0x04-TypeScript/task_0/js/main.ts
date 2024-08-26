@@ -52,3 +52,4 @@ studentsList.forEach((student: Student): void => {
 
 
 document.body.appendChild(table);
+
